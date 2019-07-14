@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="summer-days",
-    version="1.0.5",
+    version="1.1.0",
     description="A Python package to get weather reports for any location.",
     long_description=readme(),
     long_description_content_type="text/markdown",
